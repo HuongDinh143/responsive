@@ -42,7 +42,7 @@
 .header{
     width: 100%;
     height: 500px;
-    background-image: url(../../image/anhmu.jpg);
+    background-image: url(./image/anhmu.jpg);
     background-size: auto;
     background-repeat: no-repeat;
     background-position-x: -100px;
